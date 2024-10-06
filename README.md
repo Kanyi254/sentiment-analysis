@@ -1,6 +1,11 @@
 # sentiment-analysis
+* members
+* Zackariah Komu
+* Veona Maina
+* Michael Omondi
+* Maureen Imanene
 # Twitter Sentiment Analysis for Apple and Google Products
-https://www.canva.com/design/DAGSuyFFjZg/f0hEF9yz84lV4yedymKk3A/edit?utm_content=DAGSuyFFjZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[Slides](https://www.canva.com/design/DAGSuyFFjZg/f0hEF9yz84lV4yedymKk3A/edit?utm_content=DAGSuyFFjZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Summary
 This project aims to perform **sentiment analysis** on Twitter data for **Apple** and **Google** products. The goal is to classify tweets into positive, negative, or neutral sentiments to understand how customers perceive these products. The analysis involves **binary classification** and **multiclass classification** using various machine learning models such as **Logistic Regression**, **Random Forest**, **Support Vector Machines (SVM)**, and **Naive Bayes**. This study will help businesses gain insights into customer feedback and adjust their marketing and product strategies accordingly.
 
