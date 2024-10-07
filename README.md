@@ -1,6 +1,6 @@
 # sentiment-analysis
 * members
-* Zackariah Komu
+* Zachariah Komu
 * Veona Maina
 * Michael Omondi
 * Maureen Imanene
